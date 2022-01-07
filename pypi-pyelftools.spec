@@ -4,7 +4,7 @@
 #
 Name     : pypi-pyelftools
 Version  : 0.27
-Release  : 22
+Release  : 23
 URL      : https://files.pythonhosted.org/packages/6b/b5/f7022f2d950327ba970ec85fb8f85c79244031092c129b6f34ab17514ae0/pyelftools-0.27.tar.gz
 Source0  : https://files.pythonhosted.org/packages/6b/b5/f7022f2d950327ba970ec85fb8f85c79244031092c129b6f34ab17514ae0/pyelftools-0.27.tar.gz
 Summary  : Library for analyzing ELF files and DWARF debugging information
