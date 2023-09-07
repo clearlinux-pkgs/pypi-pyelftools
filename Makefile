@@ -1,5 +1,5 @@
 PKG_NAME := pypi-pyelftools
-URL = https://files.pythonhosted.org/packages/0e/35/e76da824595452a5ad07f289ea1737ca0971fc6cc7b6ee9464279be06b5e/pyelftools-0.29.tar.gz
+URL = https://files.pythonhosted.org/packages/84/05/fd41cd647de044d1ffec90ce5aaae935126ac217f8ecb302186655284fc8/pyelftools-0.30.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
